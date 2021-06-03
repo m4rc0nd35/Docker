@@ -1,6 +1,6 @@
 ### Docker
 
-- tagear image
+- tag image
 ```
 docker tag <image_id> <account>/<image_name>:tag
 ```
