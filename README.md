@@ -15,3 +15,7 @@ docker tag <image_id> <account>/<image_name>:tag
 ```
 docker push <account>/<image_name>:tag
 ```
+- up docker
+```
+docker container run --name test -p 8080:8080 <account>/<image_name>:tag
+````
