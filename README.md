@@ -1,5 +1,8 @@
 ### Docker
-
+- Login
+- ```
+docker login
+```
 - build image
 ```
 docker build -t <account>/<image_name>:tag <path_build>
